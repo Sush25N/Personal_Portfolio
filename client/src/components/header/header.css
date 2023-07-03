@@ -18,7 +18,7 @@ header {
   justify-content: center;
 }
 
-/* ======= Header Socials ======= */
+======= Header Socials ======= */
 .header__socials {
   display: flex;
   flex-direction: column;
@@ -35,3 +35,5 @@ header {
   height: 2rem;
   background: var(--color-primary);
 }
+
+/* ======= CTA =======
