@@ -14,33 +14,43 @@ const Experience = () => {
           <h3>Frontend Development</h3>
           <div className="experience__content">
             <article className="experience__details">
-              <BiSolidMessageSquareCheck />
-              <h4>HTML5</h4>
-              <small className="text-light">Experienced</small>
+              <BiSolidMessageSquareCheck className="experience__details-icon" />
+              <div>
+                <h4>HTML5</h4>
+                <small className="text-light">Experienced</small>
+              </div>
             </article>
 
             <article className="experience__details">
-              <BiSolidMessageSquareCheck />
-              <h4>CSS3</h4>
-              <small className="text-light">Intermediate</small>
+              <BiSolidMessageSquareCheck className="experience__details-icon" />
+              <div>
+                <h4>CSS3</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
             </article>
 
             <article className="experience__details">
-              <BiSolidMessageSquareCheck />
-              <h4>BootStrap</h4>
-              <small className="text-light">Intermediate</small>
+              <BiSolidMessageSquareCheck className="experience__details-icon" />
+              <div>
+                <h4>BootStrap</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
             </article>
 
             <article className="experience__details">
-              <BiSolidMessageSquareCheck />
-              <h4>JavaScript</h4>
-              <small className="text-light">Experienced</small>
+              <BiSolidMessageSquareCheck className="experience__details-icon" />
+              <div>
+                <h4>JavaScript</h4>
+                <small className="text-light">Experienced</small>
+              </div>
             </article>
 
             <article className="experience__details">
-              <BiSolidMessageSquareCheck />
-              <h4>React JS</h4>
-              <small className="text-light">Intermediate</small>
+              <BiSolidMessageSquareCheck className="experience__details-icon" />
+              <div>
+                <h4>React JS</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
             </article>
           </div>
         </div>
@@ -51,15 +61,19 @@ const Experience = () => {
           <h3>Backend Development</h3>
           <div className="experience__content">
             <article className="experience__details">
-              <BiSolidMessageSquareCheck />
-              <h4>Node JS</h4>
-              <small className="text-light">Intermediate</small>
+              <BiSolidMessageSquareCheck className="experience__details-icon" />
+              <div>
+                <h4>Node JS</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
             </article>
 
             <article className="experience__details">
-              <BiSolidMessageSquareCheck />
-              <h4>Mongo DB</h4>
-              <small className="text-light">Intermediate</small>
+              <BiSolidMessageSquareCheck className="experience__details-icon" />
+              <div>
+                <h4>Mongo DB</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
             </article>
           </div>
         </div>
