@@ -8,6 +8,46 @@ import IMG5 from "../../assets/portfolio5.png"
 import IMG6 from "../../assets/portfolio6.jpg"
 
 
+const data = [
+  {
+    id: 1,
+    image: IMG1,
+    title: 'EasyJOBS',
+    github: 'https://github.com'
+  },
+  {
+    id: 2,
+    image: IMG2,
+    title: 'EasyJOBS',
+    github: 'https://github.com'
+  },
+  {
+    id: 3,
+    image: IMG3,
+    title: 'EasyJOBS',
+    github: 'https://github.com'
+  },
+  {
+    id: 4,
+    image: IMG4,
+    title: 'EasyJOBS',
+    github: 'https://github.com'
+  },
+  {
+    id: 5,
+    image: IMG5,
+    title: 'EasyJOBS',
+    github: 'https://github.com'
+  },
+  {
+    id: 6,
+    image: IMG6,
+    title: 'EasyJOBS',
+    github: 'https://github.com'
+  },
+]
+
+
 const Portfolio = () => {
   return <section id="portfolio">
     <h5>My Recent Work</h5>
