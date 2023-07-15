@@ -144,31 +144,31 @@ const Portfolio = () => {
   {
     id: 2,
     image: IMG2,
-    title: 'EasyJOBS',
+    title: 'Dynamic_Quotes',
     github: 'https://github.com'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'EasyJOBS',
+    title: 'Weather_Application',
     github: 'https://github.com'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'EasyJOBS',
+    title: 'Calculator',
     github: 'https://github.com'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'EasyJOBS',
+    title: 'Image-slider',
     github: 'https://github.com'
   },
   {
     id: 6,
     image: IMG6,
-    title: 'EasyJOBS',
+    title: 'Food_Order_App',
     github: 'https://github.com'
   },
 ]
