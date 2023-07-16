@@ -39,7 +39,7 @@ const Portfolio = () => {
   {
     id: 5,
     image: IMG5,
-    title: 'Image-slider',
+    title: 'Image_slider',
     github: 'https://github.com'
   },
   {
